@@ -1,0 +1,6 @@
+# https://prettier.io/docs/en/options.html
+printWidth: 120
+jsxBracketSameLine: true
+jsxSingleQuote: true
+singleQuote: true
+semi: false

@@ -1,0 +1,75 @@
+{
+  "name": "enterprise-react-2020",
+  "homepage": "https://slava-lu.github.io/enterprise-react-2020/",
+  "version": "2.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@loadable/component": "^5.10.3",
+    "@material-ui/codemod": "^4.5.0",
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/icons": "^4.5.1",
+    "date-fns": "^2.6.0",
+    "formik": "^2.0.6",
+    "i18next": "^18.0.1",
+    "i18next-xhr-backend": "^3.2.0",
+    "lodash": "^4.17.15",
+    "query-string": "^6.8.3",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-i18next": "^11.0.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint ./src",
+    "lint:fix": "eslint ./src --fix",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "enzyme-to-json": "^3.4.3",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-react": "^9.2.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "fetch-mock": "^8.0.1",
+    "gh-pages": "^2.1.1",
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.19.1",
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "jest": {
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ]
+  }
+}

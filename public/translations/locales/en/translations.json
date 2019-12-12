@@ -1,0 +1,14 @@
+{
+  "app_title": "Weather Today",
+  "get_weather": "Get Weather",
+  "city": "City",
+  "temp": "Temp",
+  "wind": "Wind",
+  "humidity": "Humidity",
+  "last_updated": "Last Updated",
+  "London": "London",
+  "Berlin": "Berlin",
+  "Moscow": "Moscow",
+  "Paris": "Paris",
+  "Cairo": "Cairo"
+}
