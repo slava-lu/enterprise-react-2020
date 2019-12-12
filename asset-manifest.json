@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/enterprise-react-2020/static/js/main.8f4345c3.chunk.js",
+    "runtime-main.js": "/enterprise-react-2020/static/js/runtime-main.e5d2ab20.js",
+    "static/js/2.827cc9d0.chunk.js": "/enterprise-react-2020/static/js/2.827cc9d0.chunk.js",
+    "static/js/3.3a77cad3.chunk.js": "/enterprise-react-2020/static/js/3.3a77cad3.chunk.js",
+    "static/js/4.7bb78380.chunk.js": "/enterprise-react-2020/static/js/4.7bb78380.chunk.js",
+    "static/js/5.2ed8c4e9.chunk.js": "/enterprise-react-2020/static/js/5.2ed8c4e9.chunk.js",
+    "static/js/6.9326a0e3.chunk.js": "/enterprise-react-2020/static/js/6.9326a0e3.chunk.js",
+    "index.html": "/enterprise-react-2020/index.html",
+    "precache-manifest.03aebe796cc33dfbcd68a3476145eff1.js": "/enterprise-react-2020/precache-manifest.03aebe796cc33dfbcd68a3476145eff1.js",
+    "service-worker.js": "/enterprise-react-2020/service-worker.js",
+    "static/js/2.827cc9d0.chunk.js.LICENSE": "/enterprise-react-2020/static/js/2.827cc9d0.chunk.js.LICENSE",
+    "static/js/4.7bb78380.chunk.js.LICENSE": "/enterprise-react-2020/static/js/4.7bb78380.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d2ab20.js",
+    "static/js/2.827cc9d0.chunk.js",
+    "static/js/main.8f4345c3.chunk.js"
+  ]
+}
